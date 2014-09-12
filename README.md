@@ -19,7 +19,7 @@ you can copy and paste the code in the console to test it out, it will run as if
 
 ###Try it out
 
-open the index.html file and test it live, just type some code on the text area and press Haha, then you can paste that code in the console or on a .js file and it should run exactly as if was the code you typed in the box.
+test it live [here](cazala.github.io/haha), just type some code on the text area and press Haha, then you can paste that code in the console or on a .js file and it should run exactly as if was the code you typed in the box.
 
 ###Dependencies
 
