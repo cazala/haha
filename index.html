@@ -1,0 +1,30 @@
+<html>
+	<head>
+		<title>Haha.</title>
+		<script src="hieroglyphy.js"></script>
+		<script src="haha.js"></script>
+		<style>
+		#container{
+			position: absolute;
+			left: calc(50% - 323px);
+			top: calc(50% - 175px);
+			display: inline-block;
+		}
+		#code {
+			width: 626px;
+			height: 349px;
+		}
+		#haha {
+			position: absolute;
+			right: 0px;
+			margin-top: 6px;
+		}
+		</style>
+	</head>
+	<body>
+		<div id="container">
+			<textarea id="code" placeholder="Script goes here..."></textarea>
+			<button id="haha" type="button" onclick="document.getElementById('code').value = haha(document.getElementById('code').value); document.getElementById('code').select();">Haha</button>
+		</div>
+	</body>
+</html>
