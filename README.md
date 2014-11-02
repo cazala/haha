@@ -8,7 +8,6 @@ Humorous javascript obfuscation tool
 `haha(code, getFunc);`
 
 + code: the script that you want to make obfuscate.
-+ 
 + getFunc: if set to true, the returned value is a function, otherwise if set to false (or not defined at all) it returns a string
 
 ###Example
