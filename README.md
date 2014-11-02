@@ -7,12 +7,12 @@ Humorous javascript obfuscation tool
 
 `haha(code, getFunc);`
 
-+ code: the script that you want to make obfuscate.
-+ getFunc: if set to true, the returned value is a function, otherwise if set to false (or not defined at all) it returns a string
++ `code`: the script that you want to make obfuscate.
++ `getFunc`: if set to true, the returned value is a function, otherwise if set to false (or not defined at all) it returns a string
 
 ###Example
 
-`haha('alert("hello world')') // Function('HahaAhAhHahahH....`
+`haha('alert("hello world")') // Function('HahaAhAhHahahH....`
 
 you can copy and paste the code in the console to test it out, it will run as if it was the script you passed as parameter to the haha() function
 
